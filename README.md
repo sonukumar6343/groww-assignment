@@ -24,8 +24,8 @@ FinBoard is a real-time, customizable finance dashboard builder. It allows users
 
 - **Frontend**: Next.js
 - **Styling**: Tailwind CSS / Styled-Components
-- **State Management**: Redux Toolkit / Zustand / Jotai
-- **Visualization**: Chart.js / Recharts
+- **State Management**:Zustand 
+- **Visualization**:  Recharts
 - **Deployment**: Vercel
 
 ## Getting Started
